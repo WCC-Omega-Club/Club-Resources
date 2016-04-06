@@ -16,6 +16,9 @@ His original pitch was for a comprehensive suite of restaurant management softwa
     Allows restaurant managers to track long-term changes in business metrics, including inventory value, gross profit, operating expenses, etc.
   - Staff Hour Tracking System ("Payroll" but NOT)
     Allows tally and tracking of hours worked by various staff members. Generates various printed reports for records and management decision making.
+
+Google Docs Notes:
+https://docs.google.com/document/d/1KmP3MGV-aYbeuDL-rL61Y1IRK08rLwtVAvHjxgDsrAc/edit?usp=sharing
     
 // 04.06.2016
 // Are we still working on this?
