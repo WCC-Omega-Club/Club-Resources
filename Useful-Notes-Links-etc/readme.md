@@ -1,5 +1,7 @@
 ##Useful Stuff for club members and student coders
-Feel free to add to this any time.\s\s
+Feel free to add to this any time.
+
+
 ###General Software Learning
 ####The Ultimate Guide to Getting a Software Engineering Job out of College
 ######via Medium, written by Tamar Weinberg
